@@ -23,14 +23,14 @@ To provide data-backed recommendations aimed at increasing dealership profitabil
 
 ### **4. Objectives (Step-by-Step Approach)**
 
-Step 1: Planning and Architecture- Develop a data flow diagram and project roadmap to outline the ETL pipeline from raw CSV to the presentation layer.
-Step 2: Data Cleaning and Processing- Load the raw dataset and perform cleaning tasks, including removing duplicates, handling missing values, and converting text-based prices into numeric formats.
-Step 3: Feature Engineering- Create new metrics such as Total Revenue and Profit Margin using the following formulas:
+#Step 1: Planning and Architecture- Develop a data flow diagram and project roadmap to outline the ETL pipeline from raw CSV to the presentation layer.
+#Step 2: Data Cleaning and Processing- Load the raw dataset and perform cleaning tasks, including removing duplicates, handling missing values, and converting text-based prices into numeric formats.
+#Step 3: Feature Engineering- Create new metrics such as Total Revenue and Profit Margin using the following formulas:
     *$\text{Total Revenue} = \text{Selling Price} \times \text{Units Sold}$$
     *$\text{Profit Margin} = \frac{(\text{Selling Price} - \text{Cost Price})}{\text{Selling Price}} \times 100$$
-Step 4: Exploratory Data Analysis- Group transactions by time periods (month, quarter, or year) and fuel types to identify seasonal trends.
-Step 5: Dashboard Development- Build interactive visualizations with slicers for region, fuel type, and year to allow stakeholders to drill down into the data.
-Step 6: Strategic Reporting- Summarize findings and actionable recommendations into a professional executive presentation.
+#Step 4: Exploratory Data Analysis- Group transactions by time periods (month, quarter, or year) and fuel types to identify seasonal trends.
+#Step 5: Dashboard Development- Build interactive visualizations with slicers for region, fuel type, and year to allow stakeholders to drill down into the data.
+#Step 6: Strategic Reporting- Summarize findings and actionable recommendations into a professional executive presentation.
 
 ### **5. Tools Used
 
