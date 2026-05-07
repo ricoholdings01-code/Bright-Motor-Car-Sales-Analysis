@@ -1,0 +1,3 @@
+1.Lovable Dashboard-https://bright-motor-sales-analysis.lovable.app/
+
+2.Databricks Dashboard-https://dbc-4b755feb-aca4.cloud.databricks.com/dashboardsv3/01f1465f5a131d3f908533b8f18d83b8/published?o=7474651449092003
